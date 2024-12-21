@@ -1,0 +1,15 @@
+C:\Users\20100\source\repos\Parser_Project_Code\bin\Debug\net8.0\Parser_Project_Code.exe
+C:\Users\20100\source\repos\Parser_Project_Code\bin\Debug\net8.0\Parser_Project_Code.deps.json
+C:\Users\20100\source\repos\Parser_Project_Code\bin\Debug\net8.0\Parser_Project_Code.runtimeconfig.json
+C:\Users\20100\source\repos\Parser_Project_Code\bin\Debug\net8.0\Parser_Project_Code.dll
+C:\Users\20100\source\repos\Parser_Project_Code\bin\Debug\net8.0\Parser_Project_Code.pdb
+C:\Users\20100\source\repos\Parser_Project_Code\obj\Debug\net8.0\Parser_Project_Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20100\source\repos\Parser_Project_Code\obj\Debug\net8.0\Parser_Project_Code.AssemblyInfoInputs.cache
+C:\Users\20100\source\repos\Parser_Project_Code\obj\Debug\net8.0\Parser_Project_Code.AssemblyInfo.cs
+C:\Users\20100\source\repos\Parser_Project_Code\obj\Debug\net8.0\Parser_Project_Code.csproj.CoreCompileInputs.cache
+C:\Users\20100\source\repos\Parser_Project_Code\obj\Debug\net8.0\Parser_Project_Code.sourcelink.json
+C:\Users\20100\source\repos\Parser_Project_Code\obj\Debug\net8.0\Parser_Project_Code.dll
+C:\Users\20100\source\repos\Parser_Project_Code\obj\Debug\net8.0\refint\Parser_Project_Code.dll
+C:\Users\20100\source\repos\Parser_Project_Code\obj\Debug\net8.0\Parser_Project_Code.pdb
+C:\Users\20100\source\repos\Parser_Project_Code\obj\Debug\net8.0\Parser_Project_Code.genruntimeconfig.cache
+C:\Users\20100\source\repos\Parser_Project_Code\obj\Debug\net8.0\ref\Parser_Project_Code.dll
